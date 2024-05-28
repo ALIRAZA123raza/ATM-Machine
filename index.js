@@ -42,7 +42,7 @@ if (pinAnswer.pin === myPin) {
             }
             else {
                 myBalance -= fastCashAns.FastCash;
-                console.log(`${fastCashAns.fastCash} withdraw successfully`);
+                console.log(`${fastCashAns.FastCash} withdraw successfully`);
                 console.log(`your remaining balance is:${myBalance}`);
             }
         }
